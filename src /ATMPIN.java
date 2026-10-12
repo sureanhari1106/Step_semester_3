@@ -1,4 +1,4 @@
-public class Main {
+public class ATMPIN {
 
     static void checkPinLength(String pin) {
         if (pin.length() != 4) {
